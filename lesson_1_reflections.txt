@@ -1,0 +1,36 @@
+lesson 1
+
+It allow one to concentrate on small areas / few lines of code to find the bug.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+- Allows me to see previous corrections of the code
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pros:
+- Coherent commits
+- Ability to select logical units to commit.
+- Ability to describe the changes in the commit message meaningfully
+
+Cons:
+- Might forget to commit often enough.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because CMS's are content oriented, and content can be distributed in multiple files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows all commits to the repository, and which files were changed by each.
+git diff shows the difference between specified commits.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+It is easy to revert mistakes.
+It is easy to try different versions of the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+replacing svn at work ;-)
