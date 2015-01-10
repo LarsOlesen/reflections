@@ -9,4 +9,6 @@ How is the staging area different from the working directory and the repository?
 - The staging area can be prepared for just the changes needed for the next commit, while leaving other changed files unstaged.
 - It enables the user to prepare smaller more logically separated commits, rather than oen huge commit containing several possibly unrelated changes.
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+- Only add the files I want (which would we the files that make up the logical change in question) to the stagin area before committing.
