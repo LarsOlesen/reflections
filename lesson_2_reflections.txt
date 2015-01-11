@@ -13,3 +13,17 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 - Only add the files I want (which would we the files that make up the logical change in question) to the staging area before committing.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- When I want to try some experimental features.
+- When I am about to make big changes to the code base.
+- When I would like to have different versions of the code.
+
+How do the diagrams help you visualize the branch structure?
+
+- They show where the branches intersect (branch points)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+- Making the receiving branch contain changes from both the merged branches.
+- To show that the branches have been combined.
