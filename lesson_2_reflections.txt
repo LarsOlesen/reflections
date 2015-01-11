@@ -27,3 +27,12 @@ What is the result of merging two branches together? Why do we represent it in t
 
 - Making the receiving branch contain changes from both the merged branches.
 - To show that the branches have been combined.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros
+- It saves time when automatic merges are possible.
+- It prefills the commit message with the information, that the commit is about a merge.
+
+Cons
+- Subtle differences might break the code after an automatic merge.
