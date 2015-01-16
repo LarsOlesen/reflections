@@ -17,3 +17,15 @@ Describe the differences between forks, clones, and branches. When would you use
 
 - I would use forks when I want to clone a repository on github.
 - Github does not allow creating repositories by cloning.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- I think this is because it is then possible to compare the local state with the remote state.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- Share a branch with collaborator.
+- Send pathches.
+- Pull requests is better.
+- Pathces are probably more inconvenient.
+
