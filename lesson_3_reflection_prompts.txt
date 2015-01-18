@@ -29,3 +29,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 - Pull requests is better.
 - Pathces are probably more inconvenient.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- When I want to collaborate using pull requests, and peer reviews using pull requests.
+- 
